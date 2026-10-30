@@ -5,7 +5,7 @@ const projects = [
     title: 'EduTrack CBT',
     description: 'A multi-tenant school management and computer-based testing platform with exam proctoring and Paystack fee payments.',
     technologies: ['Python', 'Django', 'PostgreSQL', 'JavaScript'],
-    link: 'https://github.com/ogedz'
+    link: 'https://impcc.lifox.com.ng'
   },
   {
     title: 'Lifox Shield',
